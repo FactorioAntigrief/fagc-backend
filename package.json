@@ -94,7 +94,7 @@
 		"eslint": "^7.32.0",
 		"eslint-config-prettier": "^8.3.0",
 		"express-swagger-generator": "^1.1.17",
-		"husky": "^7.0.2",
+		"husky": "^7.0.4",
 		"install-types": "^2.0.1",
 		"lint-staged": "^11.2.6",
 		"nodemon": "^2.0.12",
