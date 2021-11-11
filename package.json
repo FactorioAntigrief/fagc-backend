@@ -23,7 +23,7 @@
 		"@fastify/session": "^6.2.2",
 		"@hapi/joi": "^17.1.1",
 		"@mgcrea/fastify-session": "^0.14.1",
-		"@mgcrea/fastify-session-sodium-crypto": "^0.8.2",
+		"@mgcrea/fastify-session-sodium-crypto": "^0.8.3",
 		"@sentry/node": "^6.13.3",
 		"@sentry/tracing": "^6.13.3",
 		"@sinclair/typebox": "^0.20.4",
