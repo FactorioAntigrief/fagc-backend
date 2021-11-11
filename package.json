@@ -28,7 +28,7 @@
 		"@sentry/tracing": "^6.14.1",
 		"@sinclair/typebox": "^0.20.4",
 		"@typegoose/typegoose": "^9.2.0",
-		"@types/node": "^16.9.0",
+		"@types/node": "^16.11.7",
 		"connect-sqlite3": "^0.9.12",
 		"cookie-parser": "~1.4.4",
 		"cors": "^2.8.5",
