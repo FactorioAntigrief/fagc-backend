@@ -64,7 +64,7 @@
 		"node-fetch": "^3.0.0",
 		"prom-client": "^14.0.1",
 		"tsc": "^2.0.3",
-		"yup": "^0.32.9"
+		"yup": "^0.32.11"
 	},
 	"repository": {
 		"type": "git",
