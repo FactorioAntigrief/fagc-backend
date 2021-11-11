@@ -20,10 +20,10 @@
 		"**/*": "prettier --write --ignore-unknown"
 	},
 	"dependencies": {
-		"@fastify/session": "^6.2.0",
+		"@fastify/session": "^6.2.2",
 		"@hapi/joi": "^17.1.1",
 		"@mgcrea/fastify-session": "^0.14.1",
-		"@mgcrea/fastify-session-sodium-crypto": "^0.8.2",
+		"@mgcrea/fastify-session-sodium-crypto": "^0.8.3",
 		"@sentry/node": "^6.13.3",
 		"@sentry/tracing": "^6.13.3",
 		"@sinclair/typebox": "^0.20.4",
@@ -37,7 +37,7 @@
 		"discord-oauth2": "^2.7.1",
 		"discord.js": "^13.3.1",
 		"dotenv": "^10.0.0",
-		"envalid": "^7.2.1",
+		"envalid": "^7.2.2",
 		"express": "~4.17.1",
 		"express-cors": "0.0.3",
 		"express-rate-limit": "^5.5.1",
@@ -62,7 +62,7 @@
 		"mongoose": "^6.0.12",
 		"morgan": "^1.9.1",
 		"node-fetch": "^3.0.0",
-		"prom-client": "^13.2.0",
+		"prom-client": "^14.0.1",
 		"tsc": "^2.0.3",
 		"yup": "^0.32.9"
 	},
