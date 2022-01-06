@@ -73,7 +73,7 @@
 		"@types/prettier": "^2.4.2",
 		"@types/ws": "^8.2.2",
 		"@typescript-eslint/eslint-plugin": "^5.6.0",
-		"@typescript-eslint/parser": "^4.31.0",
+		"@typescript-eslint/parser": "^5.9.0",
 		"eslint-config-prettier": "^8.3.0",
 		"husky": "^7.0.4",
 		"install-types": "^2.0.1",
